@@ -175,12 +175,12 @@
             {
                 this.task.name = '';
                 this.task.description = '';
+                this.errors = [];
             },
             readTasks()
             {
                 axios.get('/task')
                     .then(response => {
-                        console.log(response)
                         this.tasks = response.data.tasks;
                     });
             },
