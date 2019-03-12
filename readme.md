@@ -1,5 +1,5 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-<p align="center"><img src="./images/output1.PNG"></p>
+<p align="center"><img src="./public/images/output1.PNG"></p>
 # To demonstrate the support, I decided to create a single page app in Laravel with a Vue.js powered frontend.
 
 ## We are going to use Laravel and  Vuejs
