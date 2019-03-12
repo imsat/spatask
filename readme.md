@@ -9,13 +9,13 @@
 Clone this repository
 
 ```bash
-git clone git@github.com:bitfumes/real-time-single-page-forum-app.git
+git clone https://github.com/imsat/spatask.git
 ```
 
 Go inside the directory
 
 ```bash
-cd real-time-single-page-forum-app
+cd spatask
 ```
 
 Now install composer
@@ -35,7 +35,7 @@ Npm Install and Build
 
 ```bash
 npm install
-npm run watch / npm nun dev
+npm run watch / npm run dev
 ```
 
 
