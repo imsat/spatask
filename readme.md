@@ -1,9 +1,8 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-# This is a real time single page forum app.
+<p align="center"><img src="./images/output1.PNG"></p>
+# To demonstrate the support, I decided to create a single page app in Laravel with a Vue.js powered frontend.
 
-## We are going to use Pusher, Laravel, Vuejs. Vuetify, JWT, and markdown
-
-This project is the source code of a Udemy course, you can get this course with discount coupon from [here](https://goo.gl/mB6ssR)
+## We are going to use Laravel and  Vuejs
 
 ## Installation
 
@@ -30,6 +29,13 @@ Generate key on .env file
 ```bash
 cp .env.example .env
 php artisan key:generate
+```
+
+Npm Install and Build
+
+```bash
+npm install
+npm run watch / npm nun dev
 ```
 
 
